@@ -1,0 +1,15 @@
+header {
+    width: 100%;
+    background-color: lightblue;
+  }
+
+  .headerInfo {
+    font-family:'Times New Roman', Times, serif;
+    color: darkblue;
+  }
+
+  .li {
+    display: inline;
+    list-style-type: none;
+    font-size: 15px;
+  }
